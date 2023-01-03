@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IMD4008A__Assignment4_OnyinyeAgetu_YaraSaadaldin"
